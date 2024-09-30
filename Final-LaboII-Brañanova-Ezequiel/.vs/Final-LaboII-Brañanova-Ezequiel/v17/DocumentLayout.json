@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Bra\u00F1anova-Ezequiel\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D776A6A1-61F7-40BF-92CE-950CDE2BCBCF}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\final-laboratorioii\\final-laboii-bra\u00F1anova-ezequiel\\classlibrary\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D776A6A1-61F7-40BF-92CE-950CDE2BCBCF}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D776A6A1-61F7-40BF-92CE-950CDE2BCBCF}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ezequ\\desktop\\final-laboratorioii\\final-laboii-bra\u00F1anova-ezequiel\\classlibrary\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D776A6A1-61F7-40BF-92CE-950CDE2BCBCF}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC1C3D1-7D33-4840-980C-9CCE085E010A}|UnitTesting\\UnitTesting.csproj|c:\\users\\ezequ\\desktop\\final-laboratorioii\\final-laboii-bra\u00F1anova-ezequiel\\unittesting\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC1C3D1-7D33-4840-980C-9CCE085E010A}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonajeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\ClassLibrary\\PersonajeDAO.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\PersonajeDAO.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\ClassLibrary\\PersonajeDAO.cs",
+              "RelativeToolTip": "ClassLibrary\\PersonajeDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:43:09.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\ClassLibrary\\Combate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Combate.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\ClassLibrary\\Combate.cs",
+              "RelativeToolTip": "ClassLibrary\\Combate.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:41:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\UnitTesting\\Tests.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Tests.cs",
+              "ToolTip": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Bra\u00F1anova-Ezequiel\\UnitTesting\\Tests.cs",
+              "RelativeToolTip": "UnitTesting\\Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:41:22.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,6 +7,9 @@ using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Text.Json;
+using Newtonsoft;
+using Newtonsoft.Json;
 
 public delegate void DelegadoRondas(IJugador j1, IJugador j2);
 public delegate void DelegadoCombate(IJugador j1);

@@ -20,7 +20,7 @@ namespace UnitTesting
         {
             
             Personaje personaje = new Guerrero(2, "Ezequiel", -1);
-            Assert.ThrowsException<BusinessException>(personaje);
+            Assert.ThrowsException<BusinessException>(()=>personaje);
         }
     }
 }

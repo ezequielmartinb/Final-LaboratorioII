@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj": {}
+    "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\Susana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Susana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,17 +78,17 @@
         }
       }
     },
-    "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj",
-        "packagesPath": "C:\\Users\\Susana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\obj\\",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Susana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +102,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Susana\\source\\repos\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ezequ\\Desktop\\Final-LaboratorioII\\Final-LaboII-Brañanova-Ezequiel\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
